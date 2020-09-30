@@ -1,6 +1,6 @@
 # JavaDocs
-java inroduction
+java Introduction
 first line to write in java code 
-public void main(String[]args)
+public static void main(String[]args){
 **body**
 }
